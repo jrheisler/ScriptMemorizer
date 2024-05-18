@@ -1,0 +1,935 @@
+[
+  {
+    "name": "Ballet",
+    "elements": [
+      {
+        "owner": "",
+        "path": "scripts/589a6414-cc76-4a2f-a4f4-486e22abca4f",
+        "license": "",
+        "name": "Ballet 4/24",
+        "about": ""
+      }
+    ]
+  },
+  {
+    "name": "Suspense Theater",
+    "elements": [
+      {
+        "owner": "",
+        "path": "scripts/d1bd6ace-8a2d-4a0d-9d77-4d7b3b3d61fa",
+        "license": "",
+        "name": "2462",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/c18f21aa-0a70-4387-8d92-57effe890442",
+        "license": "",
+        "name": "A Murderous Revision",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/5ab17181-e506-4be3-9a15-21981be3f5a9",
+        "license": "",
+        "name": "A Week Ago Wednesday",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/86126651-0bea-409d-b129-4679e1da733b",
+        "license": "",
+        "name": "August Heat",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/64f1a7bf-bbaa-4466-af6f-39096e2d59d5",
+        "license": "",
+        "name": "Back for Christmas",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/ce8ae405-032e-4a9d-a22f-022cd543dd1b",
+        "license": "",
+        "name": "Backseat Driver",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/4f7f5845-ff15-4d47-8b16-ed8569a74e52",
+        "license": "",
+        "name": "Bells",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/1c9001d2-d19e-40ac-b20e-b713a145a080",
+        "license": "",
+        "name": "Cabin B-13",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/3e0c3298-c889-460b-b6dd-1bdb325e0992",
+        "license": "",
+        "name": "Christmas for Carole",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/fd41d20d-9ea7-4007-9185-97cbf7a41031",
+        "license": "",
+        "name": "Combo",
+        "about": "This is a combined script to make it easy to do a 2 show, show"
+      },
+      {
+        "owner": "",
+        "path": "scripts/0156ccdf-fb67-4213-9c30-af1b7f18b941",
+        "license": "",
+        "name": "Concerto for Killer and Eyewitnesses",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/e79ef45b-8905-4ab3-943e-db7a4a99b122",
+        "license": "",
+        "name": "Dead Ernest",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/5f8921a3-d3f3-4af3-8538-61d9927318aa",
+        "license": "",
+        "name": "Drive-In",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/826b461e-8455-4a19-8fed-826a34cd5249",
+        "license": "",
+        "name": "Ghost Hunt",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/31c186b0-3e15-435d-8521-32b73aa3bc31",
+        "license": "",
+        "name": "Goodbye, Miss Lizzie Borden",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/316d0c94-98ef-498b-90ad-d8e1faf1936a",
+        "license": "",
+        "name": "Hide and Seek",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/7565c28b-b81f-4f19-b682-1d6fc32c11b8",
+        "license": "",
+        "name": "Joker Wild",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/8bc605e5-8fbb-4457-979a-cc499ada8121",
+        "license": "",
+        "name": "Love, Honor, or Murder",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/6172bc78-b5db-483d-90ee-4be2bd997e62",
+        "license": "",
+        "name": "Mr. Markham, Antique Dealer",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/4d4c4044-8b27-40de-a80f-aa26961ad683",
+        "license": "",
+        "name": "Murder on Mike",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/eff461a4-3f76-4e9c-b62d-e37f8c216db5",
+        "license": "",
+        "name": "My Dear Niece",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/d54935a5-7740-49f9-b8a1-4c9685b24a75",
+        "license": "",
+        "name": "Night Before Christmas",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/716d4836-bcd4-4981-8c86-6ad58d6ec572",
+        "license": "",
+        "name": "On A Country Road",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/bc23f6b6-4b25-4eda-9459-c251c089f2eb",
+        "license": "",
+        "name": "Out for Christmas",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/b9ff82c4-83eb-40dc-ac38-32ad785a867a",
+        "license": "",
+        "name": "Return to Dust",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/1d1eaba9-d934-4ee5-936a-d179b02093d5",
+        "license": "",
+        "name": "Sorry Wrong Number",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/caebfac6-1d98-488e-bd98-88eab9b0f039",
+        "license": "",
+        "name": "Stand-In",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/47a08686-0e83-49b1-b4b3-f0661668a544",
+        "license": "",
+        "name": "Summer Night",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/01e3a254-fcad-495c-bac6-4141280180ee",
+        "license": "",
+        "name": "That Thing in the Window",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/455a70a1-8dcc-4763-a988-f6d17f21ecbc",
+        "license": "",
+        "name": "The ABC Murders",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/bbc86b55-8b85-4fe0-a507-393300f46b03",
+        "license": "",
+        "name": "The Bullet",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/ab1e8298-05c6-4dfb-9120-6a3c6c4b64dd",
+        "license": "",
+        "name": "The Burning Court",
+        "about": "Series: Suspense\nShow: The Burning Court\nDate: Jun 17 1942"
+      },
+      {
+        "owner": "",
+        "path": "scripts/235af56b-0e0c-4619-b310-841977fe4bee",
+        "license": "",
+        "name": "The Cellar Door",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/797defb0-d0ef-4a83-a3b9-fe565b88dd67",
+        "license": "",
+        "name": "The Devil's Saint",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/0eb7cfbe-ba03-4fa6-bb99-03754ec29cea",
+        "license": "",
+        "name": "The Diary of Saphronia Winters",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/051b14cb-f39d-4aed-a6c0-a0f052a9ee20",
+        "license": "",
+        "name": "The Furnished Floor",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/553787e3-8c13-4657-bd21-28674eca0e40",
+        "license": "",
+        "name": "The Game",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/643d7953-7a90-433c-a3d5-9742d415e625",
+        "license": "",
+        "name": "The Hitch-Hiker",
+        "about": "Series: Suspense\nShow: The Hitch-Hiker\nDate: Sep 02 1942"
+      },
+      {
+        "owner": "",
+        "path": "scripts/03bb9fe2-a7ed-4771-87f0-4c5627bebe9a",
+        "license": "",
+        "name": "The Man Who Knew How",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/cd51a7ce-b133-4232-ac55-6e9787df2eff",
+        "license": "",
+        "name": "The Screaming Woman",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/86badef9-e3a1-4a78-935f-8b403b3c3b29",
+        "license": "",
+        "name": "The Screaming Woman",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/40928a1e-9c15-4d5d-b765-0d4b2bad8ef6",
+        "license": "",
+        "name": "The Visitor",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/64671713-0eee-4602-95f0-289ff9fb4075",
+        "license": "",
+        "name": "The Whole Town's Sleeping",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/a9034dcd-8a47-4055-be04-fbb0cdc32b8d",
+        "license": "",
+        "name": "To Find Help",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/cfacdce9-d912-4b1e-b32c-4514c7635b36",
+        "license": "",
+        "name": "Two Sharp Knives",
+        "about": ""
+      }
+    ]
+  },
+  {
+    "name": "Mystery",
+    "elements": [
+      {
+        "owner": "",
+        "license": "",
+        "about": "",
+        "path": "scripts/c746a957-cd49-4061-bf9f-6414de6e93ec",
+        "name": "Adventures of Philip Marlowe \"Red Wind\""
+      },
+      {
+        "path": "scripts/08486923-95f5-454f-b9bd-86d2f1424408",
+        "name": "Adventures of the Thin Man Show: Valentine's Day Episode"
+      },
+      {
+        "path": "scripts/cd0221ad-0be2-4512-bd40-3882fa646049",
+        "name": "Agatha Christie's Poirot Show: The Case of the Careless Client"
+      }
+    ]
+  },
+  {
+    "name": "The Complete Works of William Shakespeare",
+    "elements": [
+      {
+        "about": "http://shakespeare.mit.edu/midsummer/full.html",
+        "license": "",
+        "path": "scripts/ed87ba5b-5076-4f9f-9b81-3dedf0aea197",
+        "name": "A Midsummer Night's Dream"
+      },
+      {
+        "about": "",
+        "license": "",
+        "path": "scripts/1b6d8c91-f032-46df-bbe7-8cba990b23ea",
+        "name": "All's Well That Ends Well"
+      },
+      {
+        "about": "",
+        "license": "",
+        "path": "scripts/f77a64f5-1771-4d4e-be2c-a41cfbd7a20a",
+        "name": "As You Like It"
+      },
+      {
+        "about": "http://shakespeare.mit.edu/othello/full.html",
+        "license": "",
+        "path": "scripts/51e93a13-e8d1-4eea-aeb6-04103d860478",
+        "name": "Othello, the Moore of Venice"
+      },
+      {
+        "about": "",
+        "path": "scripts/db951fc9-9b65-4fd1-82af-58884ccfb20a",
+        "license": "",
+        "name": "Romeo and Juliet"
+      },
+      {
+        "about": "",
+        "path": "scripts/d522016a-259f-4ed7-a10c-ad80aba8a1c9",
+        "license": "",
+        "name": "The Life and Death of Julius Caesar"
+      },
+      {
+        "about": "",
+        "license": "",
+        "path": "scripts/3161e928-c132-47b0-a258-385c57f80a94",
+        "name": "The Tragedy of Macbeth"
+      }
+    ]
+  },
+  {
+    "name": "Drama",
+    "elements": [
+      {
+        "path": "scripts/4a992ec3-578a-4949-a473-033e88798175",
+        "name": "Columbia Workshop Show: A Comedy of Danger / The Finger of God"
+      },
+      {
+        "path": "scripts/94fbfc62-b33a-48ae-9ced-a5750944d6f9",
+        "name": "Columbia Workshop Show: A Pride of Carrots: or, Venus Well Served"
+      },
+      {
+        "path": "scripts/8d020e5f-91c1-4122-b460-ac30bf7b08d3",
+        "name": "Columbia Workshop Show: Alice in Wonderland, Part 1"
+      },
+      {
+        "path": "scripts/598abe98-6a8b-490b-8f95-9a37467a7336",
+        "name": "Columbia Workshop Show: Alice in Wonderland, Part 2"
+      },
+      {
+        "path": "scripts/f8309a87-d4d2-42b2-b260-37f66ce1fecd",
+        "name": "Columbia Workshop Show: American Trilogy: Walt Whitman"
+      },
+      {
+        "path": "scripts/9c140ace-de7e-4f29-a65d-02a42f74f043",
+        "name": "Columbia Workshop Show: Carmilla"
+      },
+      {
+        "path": "scripts/70743b66-106e-41c9-b19d-dbd1f78cbc84",
+        "name": "Columbia Workshop Show: Highboy"
+      },
+      {
+        "path": "scripts/20dbd199-d794-4237-a347-c1e9447a29d3",
+        "name": "Columbia Workshop Show: Job"
+      },
+      {
+        "path": "scripts/b49a7ecb-2f54-4b3a-b2a4-0916b99663e5",
+        "name": "Columbia Workshop Show: John Brown's Body"
+      },
+      {
+        "path": "scripts/7ef4fa7c-6338-4191-859a-94de04a14513",
+        "name": "Columbia Workshop Show: Let Me Tell You About My Operation"
+      },
+      {
+        "path": "scripts/ebcda02e-c82e-4aa9-a79b-41b6047f9574",
+        "name": "Columbia Workshop Show: Madame Curie"
+      },
+      {
+        "path": "scripts/3298b174-e771-48ab-835e-3ac75ec36f18",
+        "name": "Columbia Workshop Show: My Client Curley"
+      },
+      {
+        "path": "scripts/07090241-7ec2-4cda-818a-34e17a9f7408",
+        "name": "Columbia Workshop Show: Nightmare"
+      },
+      {
+        "path": "scripts/9cc2fbbc-2c79-40db-b7e1-ec2de1ac0c08",
+        "name": "Columbia Workshop Show: Nine Prisoners"
+      },
+      {
+        "path": "scripts/34942a49-ca9d-48c3-89fa-5a23899862ae",
+        "name": "Columbia Workshop Show: Now Playing Tomorrow"
+      },
+      {
+        "path": "scripts/ca117e78-a237-48ce-802f-c5ffe187515c",
+        "name": "Columbia Workshop Show: Odyssey of Runyon Jones"
+      },
+      {
+        "path": "scripts/ab12122a-5ee8-4529-9193-1421248138ca",
+        "name": "Columbia Workshop Show: Paul Revere"
+      },
+      {
+        "path": "scripts/67323ad8-4b6c-49cd-a4e9-955acb47d8e1",
+        "name": "Columbia Workshop Show: R. U. R."
+      },
+      {
+        "path": "scripts/867ed099-586d-4948-937d-bbb9a259fa3e",
+        "name": "Columbia Workshop Show: Roadside"
+      },
+      {
+        "path": "scripts/045d08df-a926-43b0-ade0-a3f8a3af42dd",
+        "name": "Columbia Workshop Show: Sometime Every Summertime"
+      },
+      {
+        "path": "scripts/3e623059-cf21-4b91-b447-c90371bb5a9f",
+        "name": "Columbia Workshop Show: Sweet Cherries in Charleston"
+      },
+      {
+        "path": "scripts/1a655ec6-287e-46e2-9478-a04cf9517ba8",
+        "name": "Columbia Workshop Show: The Crazy Life"
+      },
+      {
+        "path": "scripts/72a4e3ec-d72f-42e9-87c1-d5e3a49c5978",
+        "name": "Columbia Workshop Show: The Gods of the Mountain"
+      },
+      {
+        "path": "scripts/7a1a310a-6428-4727-8ef9-526a34e26474",
+        "name": "Columbia Workshop Show: The Little One"
+      },
+      {
+        "path": "scripts/3214529e-45c0-44ff-95ea-0a9b2344775d",
+        "name": "Columbia Workshop Show: The Plot to Overthrow Christmas"
+      },
+      {
+        "path": "scripts/0414220f-fe9b-47f8-a530-fd292507bb75",
+        "name": "Columbia Workshop Show: The Pussycat and the Expert Plumber Who Was a Man"
+      },
+      {
+        "path": "scripts/321b79d1-a39e-4ae8-a69e-57f8f2ecaa82",
+        "name": "Columbia Workshop Show: The Terrible Meek"
+      },
+      {
+        "path": "scripts/95ea18d1-8099-4aa3-984a-83215e44d2be",
+        "name": "Columbia Workshop Show: The Trial"
+      },
+      {
+        "path": "scripts/4960d26d-2439-4dd3-ac59-033efef123c6",
+        "name": "Columbia Workshop Show: The Use of Man"
+      },
+      {
+        "path": "scripts/49a4faa9-5857-42af-ba32-bb9a2442623e",
+        "name": "Columbia Workshop Show: The Well of the Saints"
+      },
+      {
+        "path": "scripts/ba1d6cf2-5939-4e97-9e7f-70fed877a727",
+        "name": "Columbia Workshop Show: Untitled"
+      },
+      {
+        "path": "scripts/73cfb882-e962-4bd0-bc04-ec65d4e7d38d",
+        "name": "Dragnet Show: The Big Bounce"
+      },
+      {
+        "path": "scripts/05d2f31c-2d3e-4f95-a29e-2f8ac3d1b80f",
+        "name": "Dragnet Show: The Big Cop"
+      },
+      {
+        "path": "scripts/37a59b37-7545-40ae-921b-45d21362c771",
+        "name": "Dragnet Show: The Big Filth"
+      },
+      {
+        "path": "scripts/60c2281e-9e0e-45ed-9696-82339e582647",
+        "name": "Dragnet Show: The Big Little Jesus"
+      },
+      {
+        "path": "scripts/e7181b93-5442-41f4-8d31-52050c101391",
+        "name": "Dragnet Show: The Big No Tooth"
+      },
+      {
+        "path": "scripts/a74874a7-6b34-470d-886e-858d979f3ad2",
+        "name": "Dragnet Show: The Big Sisters"
+      },
+      {
+        "path": "scripts/12d7b16a-7a64-4dd2-af54-452dae6b8128",
+        "name": "Dragnet Show: The Big TV"
+      }
+    ]
+  },
+  {
+    "name": "Mercury Theatre",
+    "elements": [
+      {
+        "owner": "",
+        "path": "scripts/13a28675-1b80-4533-b3c8-f268a36a0729",
+        "license": "",
+        "name": "A Tale of Two Cities",
+        "about": "https://www.genericradio.com/series/mercurytheatre"
+      },
+      {
+        "owner": "",
+        "path": "scripts/984600f9-25c6-41b1-b4b4-090f6c410437",
+        "license": "",
+        "name": "Abraham Lincoln",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/192de5a7-c4a2-48b8-aebd-169a40df146d",
+        "license": "",
+        "name": "Around the World in 80 Days",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/f2bf5436-2168-475c-be2b-347493dcd4fb",
+        "license": "",
+        "name": "DRACULA",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/989f9c9c-5bc6-464c-b0ca-a2fa151a3cc5",
+        "license": "",
+        "name": "Jane Eyre",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/f6dc6b87-d0b0-4b7a-95ca-88285e40a45a",
+        "license": "",
+        "name": "Sherlock Holmes",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/4281ff48-58fb-4462-b4b3-155fab5f48bf",
+        "license": "",
+        "name": "The Apple Tree",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/1e0f3c58-255f-4e66-9fb9-381c19654ea7",
+        "license": "",
+        "name": "The Hitchhiker",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/dacc6bf9-acab-42e5-8511-882c92531d4b",
+        "license": "",
+        "name": "The Man Who Was Thursday",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/02261ec7-d8b5-4c11-ae4f-560ddcf7e7ce",
+        "license": "",
+        "name": "Treasure Island",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/699bc946-95a5-40d3-82f6-439f1a9a43b0",
+        "license": "",
+        "name": "War of The Worlds",
+        "about": ""
+      }
+    ]
+  },
+  {
+    "name": "Classic",
+    "elements": [
+      {
+        "owner": "",
+        "path": "scripts/3032e2ca-7ef7-4e91-a3e6-955391aeaa08",
+        "license": "123456789",
+        "name": "A Christmas Carol",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/5aa614e0-e95f-4698-8daa-35f06d3d897c",
+        "license": "",
+        "name": "Hamlet",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/e939c654-4ae1-4ca1-bc12-c15cbbc8e636",
+        "license": "",
+        "name": "JEKYLL AND HYDE",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/4f3c2d5f-ce75-4428-aabd-c774ac343cf2",
+        "license": "",
+        "name": "REPORT TO THE ACADEMY",
+        "about": "\"REPORT TO THE ACADEMY\"\n\nA Play By\n\nDavid H. Heisler\n\nInspired by Franz Kafka\n\nas translated by Ian Johnston.\n\nAll rights reserved\n(c) 2012"
+      },
+      {
+        "owner": "",
+        "path": "scripts/62d8d0a2-760c-4cc3-bd77-7d7bc7cf0b34",
+        "license": "",
+        "name": "SHERLOCK HOLMES AND THE ADVENTURE OF THE IMPALED WHALER",
+        "about": "A play by Richard Lavin\nfrom the story “Black Peter” by\nSIR ARTHUR CONAN DOYLE\nPO Box 871\nBlue Jay, CA\n92372\ntalltchr@gmail.com\ncopyright 2017: all rights reserved"
+      },
+      {
+        "owner": "",
+        "path": "scripts/0b8eb9a7-b9d2-4aba-95d3-c5abd2520c93",
+        "license": "",
+        "name": "SHERLOCK HOLMES AND THE STAR OF ARABIA",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/885b3bda-57c6-4ad8-b5fc-f1bc81422d75",
+        "license": "",
+        "name": "SHERLOCK HOLMES: THE HOUND OF THE BASKERVILLES",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/321365dd-7291-4ddb-afd4-de16c96c7db6",
+        "license": "",
+        "name": "Sherlock Holmes",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/0b9f1ffc-5962-435e-896b-3faf8115c00e",
+        "license": "",
+        "name": "Sherlock Holmes Show: A Scandal in Bohemia",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/7dab0be4-76aa-419b-aafa-10b12b0152d9",
+        "license": "",
+        "name": "Sherlock Holmes Show: Murder in the Casbah",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/ccde1560-2908-4516-b86f-fb9c4816a244",
+        "license": "",
+        "name": "Sherlock Holmes Show: Silver Blaze",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/09ae029b-bc47-4dc1-b935-09c5e5363607",
+        "license": "",
+        "name": "Sherlock Holmes Show: The Adventure of the Tolling Bell",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/fb467429-ab83-4365-9213-34d1b821547b",
+        "license": "",
+        "name": "Sherlock Holmes Show: The Case of the Dead Adventuress",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/2da0e59d-b969-4cc5-8b73-0c7f0e28f301",
+        "license": "",
+        "name": "Sherlock Holmes Show: The Musgrave Ritual",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/52ce7165-71cc-415b-98f5-4ca3208e8820",
+        "license": "",
+        "name": "Sherlock Holmes Show: The Problem of Thor Bridge",
+        "about": ""
+      }
+    ]
+  },
+  {
+    "name": "Carols",
+    "elements": [
+      {
+        "owner": "",
+        "about": "",
+        "path": "scripts/9d7659f5-6847-4380-9c6c-bb964af6b38d",
+        "license": "",
+        "name": "Away in a Manger"
+      },
+      {
+        "owner": "",
+        "about": "",
+        "license": "",
+        "path": "scripts/a31f22e3-def7-4878-91eb-47841efc856b",
+        "name": "God Rest Ye Merry, Gentlemen"
+      },
+      {
+        "owner": "",
+        "about": "",
+        "license": "",
+        "path": "scripts/2d4fe85e-3d3d-4c6a-a7ce-bf0e711a22b0",
+        "name": "Hark! The Herald Angels Sing"
+      },
+      {
+        "owner": "",
+        "about": "",
+        "license": "",
+        "path": "scripts/1510edec-044b-4f67-b92e-0b545fc00939",
+        "name": "In the Bleak Mid-Winter"
+      },
+      {
+        "owner": "",
+        "about": "",
+        "license": "",
+        "path": "scripts/5b790b16-85c7-43e5-b163-9e65f3c38b3a",
+        "name": "It Came Upon a Midnight Clear"
+      },
+      {
+        "owner": "",
+        "about": "",
+        "path": "scripts/81dd5631-86b5-4260-8737-863e35025b59",
+        "license": "",
+        "name": "Joy to the World"
+      },
+      {
+        "owner": "",
+        "about": "",
+        "path": "scripts/5b550931-d160-46dc-b1e1-47061edd3573",
+        "license": "",
+        "name": "O Come All Ye Faithful"
+      },
+      {
+        "owner": "",
+        "about": "",
+        "license": "",
+        "path": "scripts/a8f6d218-0256-44ac-a1ac-726e1c13554b",
+        "name": "O Holy Night"
+      },
+      {
+        "owner": "",
+        "about": "",
+        "license": "",
+        "path": "scripts/c7a0f6e5-6c64-48ea-8360-e3a5a6c486c0",
+        "name": "Silent Night"
+      }
+    ]
+  },
+  {
+    "name": "Horror",
+    "elements": [
+      {
+        "path": "scripts/1936e2c0-d5c8-4efb-b998-4f65d65644cb",
+        "name": "Terror by Night Show: The Canterville Ghost"
+      },
+      {
+        "path": "scripts/246298e2-9654-4e92-a728-dbac17b893a2",
+        "name": "The Witch's Tale Show: Frankenstein"
+      },
+      {
+        "path": "scripts/46502db0-7a04-4986-ae8b-82239c8e54ee",
+        "name": "The Witch's Tale Show: Graveyard Mansion"
+      },
+      {
+        "path": "scripts/24f72134-c9ac-4845-bead-af1898deb185",
+        "name": "The Witch's Tale Show: Spirits of the Lake"
+      },
+      {
+        "path": "scripts/88412b02-6ec8-47b6-94fb-d138a6a22808",
+        "name": "The Witch's Tale Show: The Altar"
+      },
+      {
+        "path": "scripts/66feabdc-e77e-4e8d-a2ac-402593b59de1",
+        "name": "The Witch's Tale Show: The Boa Goddess"
+      },
+      {
+        "path": "scripts/985b5b05-d7a9-4d28-8398-81f9628e437b",
+        "name": "The Witch's Tale Show: The Devil Doctor"
+      },
+      {
+        "path": "scripts/9ba91528-4960-4e3e-aa1d-21cfdd52078d",
+        "name": "The Witch's Tale Show: The Flying Dutchman"
+      },
+      {
+        "path": "scripts/dc9c9497-0c8e-48cc-a413-5770503a10e8",
+        "name": "The Witch's Tale Show: The Haunted Crossroads"
+      },
+      {
+        "path": "scripts/46db555a-f240-4c3e-8b79-adb7c39d279e",
+        "name": "The Witch's Tale Show: The King Shark God"
+      },
+      {
+        "path": "scripts/a1f9bb98-7a4a-425d-a40f-52dd7023fe8a",
+        "name": "The Witch's Tale Show: The Violin"
+      }
+    ]
+  },
+  {
+    "name": "Comedy",
+    "elements": [
+      {
+        "path": "scripts/d16f5e08-8f60-4ad4-b6f7-43b93a7fe4f9",
+        "name": "AMOS AND ANDY (Special episode for Sunday beginning daylight saving time)"
+      },
+      {
+        "path": "scripts/f9503fb2-accb-42ad-9134-9039e69bf6cc",
+        "name": "Abbott and Costello Lion Hunting"
+      },
+      {
+        "path": "scripts/b42e690b-e7b9-441c-80c5-f48e972ee88b",
+        "name": "Abbott and Costello, Who’s On First?"
+      },
+      {
+        "path": "scripts/8658f97b-48a9-4f41-90bc-50f0d784781f",
+        "name": "Burns & Allen Show: Defending the Rat"
+      },
+      {
+        "path": "scripts/59c8df1a-e572-461d-942a-035c07c687b8",
+        "name": "Burns & Allen Show: Easter Hat War Council"
+      },
+      {
+        "path": "scripts/7d6ffa89-809b-499e-b3c0-907e4adb8bd7",
+        "name": "Burns & Allen Show: George is jealous of Gracie's old boyfriend"
+      },
+      {
+        "path": "scripts/e8273288-97be-4509-9355-947d840083c1",
+        "name": "Burns & Allen Show: Gracie Runs for President"
+      },
+      {
+        "path": "scripts/aaef6e42-fe4a-4007-8ad1-62922cce63d5",
+        "name": "Burns & Allen Show: Gracie Wins Wisconsin"
+      },
+      {
+        "path": "scripts/a6b1677c-8036-40ff-8c9d-15b3ad011304",
+        "name": "Burns & Allen Show: Gracie's Baby Turkey Swallows a Wedding Ring"
+      },
+      {
+        "path": "scripts/103d3c98-03d7-41b0-9a88-acfd1eb5dbf0",
+        "name": "Burns & Allen Show: New Year's Eve Party"
+      },
+      {
+        "path": "scripts/86481e0c-e6a3-4431-9e9d-233e93b2613a",
+        "name": "Burns & Allen Show: Royal Wedding"
+      }
+    ]
+  },
+  {
+    "name": "Community",
+    "elements": [
+      {
+        "owner": "",
+        "path": "scripts/401898cd-d031-4ec4-b848-dc3fc7bfa135",
+        "license": "",
+        "name": "Broadway",
+        "about": ""
+      },
+      {
+        "owner": "",
+        "path": "scripts/476b65fa-8d30-4b38-a337-3aac36a4407e",
+        "license": "",
+        "name": "Guppy, Blue & Pine Nut Too",
+        "about": ""
+      }
+    ]
+  }
+]
